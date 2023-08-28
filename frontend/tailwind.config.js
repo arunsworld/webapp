@@ -1,6 +1,6 @@
 /** @type {import('tailwindcss').Config} */
 module.exports = {
-  content: ["../cmd/webapp/embed/**/*.{html,js}"],
+  content: ["../cmd/app/embed/**/*.{html,js}"],
   theme: {
     height: theme => ({
       auto: 'auto',
